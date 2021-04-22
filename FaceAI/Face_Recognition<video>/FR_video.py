@@ -2,7 +2,7 @@ import cv2
 import face_recognition
 import os
 
-path = "/Users/Starkjing/Desktop/ComputerVision/FaceAI/Face_Recognition<video>/train" #模型数据图片目录
+path = "train" #模型数据图片目录
 cap = cv2.VideoCapture(0) 
 total_image_name = []
 total_face_encoding = []
