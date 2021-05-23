@@ -10,4 +10,7 @@ Project 2: Road Lane Line Detection <br />
            
 Project 3: Colour Detection <br />
            Click and show colour name on an image<br />
+           
+Project 4: QR Code Scanner <br />
+            input QR code and return corresponding website <br />
 <pre>
