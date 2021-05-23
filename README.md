@@ -5,8 +5,8 @@ Project 1: FaceAI
             - digit make up 
             - face recognition 
 
-Project 2: Road Lane Line Detection 
+Project 2: Road Lane Line Detection \n
            show road lane line for road video
            
-Project 3: Colour Detection
+Project 3: Colour Detection \n 
            Click and show colour name on an image
